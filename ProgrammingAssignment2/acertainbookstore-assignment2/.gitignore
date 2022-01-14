@@ -1,0 +1,11 @@
+*.class
+bin/
+*~
+
+.idea
+
+# Package Files #
+*.war
+*.ear
+/bin/
+.DS_Store
